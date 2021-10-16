@@ -16,6 +16,3 @@ after train and test,3 folders will be created,they are "result","saved_model","
 
 ### saved_model folder:
 After training,the saved model is in this folder.
-
-### result folder:
-### saved_predict folder:
